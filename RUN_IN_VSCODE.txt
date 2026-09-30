@@ -1,0 +1,6 @@
+1. Open the project folder in VS Code.
+2. Open Terminal -> New Terminal.
+3. Check Python: python --version
+4. Run: python main.py
+5. Test: python -m unittest
+6. Commit the complete folder to GitHub.
